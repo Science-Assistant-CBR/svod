@@ -1,3 +1,6 @@
 [submodule "ArticleController"]
 	path = ArticleController
 	url = git@github.com:Science-Assistant-CBR/ArticleController.git
+[submodule "science-parser"]
+	path = science-parser
+	url = git@github.com:Science-Assistant-CBR/science-parser.git
