@@ -1,0 +1,3 @@
+[submodule "ArticleController"]
+	path = ArticleController
+	url = git@github.com:Science-Assistant-CBR/ArticleController.git
